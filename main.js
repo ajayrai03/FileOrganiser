@@ -15,7 +15,8 @@ switch (command) {
     break;
   }
   case "help": {
-    console.log("help function called and executed successfuly on path" + path);
+    //console.log("help function called and executed successfuly on path" + path);
+    helpFunc.help();
     break;
   }
   default: {

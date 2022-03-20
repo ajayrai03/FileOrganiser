@@ -1,9 +1,11 @@
 # Build FileOrganiser commands
 
-1. First command --> node main.js help
+Commands:
+
+1. node main.js help => This command shows list of commands available to the user
 
 
-2. Second command --> node main.js organize C:\Users\91931\Desktop\file\downloads
+2. node main.js organize folderPath => This command organize files according to their extension type
 
 
-3. Third command --> node main.js tree C:\Users\91931\Desktop\file\downloads
+3.  node main.js tree folderPath => This command used to show directory structure of given folderPath

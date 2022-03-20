@@ -1,4 +1,4 @@
-Build FileOrganiser commands
+#Build FileOrganiser commands
 
 1. First command --> node main.js help
 
